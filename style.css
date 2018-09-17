@@ -1,0 +1,42 @@
+body{
+	background-image:url("https://www.gratistodo.com/wp-content/uploads/2017/02/Mansiones-1.jpg"); opacity: 1;
+	background-color:rgb(46, 175, 231);
+	background-size: 1366px 768px;
+}
+
+legend{
+	font-family: 'Arial';
+	font-size: 20px;
+}
+p{
+	font-family: Comic Sans MS;
+}
+p2{
+	color: rgb(18, 92, 237);
+	font-family: Cooper;
+}
+table {
+  width: 50%;
+  padding: 20px;
+}
+
+td {
+  background: rgb(163, 14, 4)
+  color: white;
+  padding: 10px;
+  text-align: center;
+
+}
+th{
+	font-family: arial;
+	font-size: 12px;
+}
+td{
+	font-family: Helvetica;
+	font-size: 15px;
+	border: 2px solid #273b47;
+}
+h1{
+		font-family:Comic Sans MS;
+		font-size: 30px;
+}
